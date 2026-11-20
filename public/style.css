@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 9pt;
+  line-height: 1.12;
+  background: #f2f2f2;
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.resume {
+  width: 800px;
+  margin: 0px auto;
+  background: #fff;
+  padding: 8px 30px;
+  border-radius: 8px;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); */
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 0;
+  color: #555;
+  padding-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
+
+.contact {
+  text-align: center;
+  font-size: 13px;
+  margin: 10px 0 15px;
+  color: #666;
+}
+
+.summary {
+  font-size: 14px;
+  color: #444;
+  text-align: justify;
+  margin: 0;
+}
+
+.section {
+  margin-top: 6px;
+}
+
+.technicalSkills li {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+}
+
+.section h3 {
+  border-bottom: 1px solid black;
+  font-size: 10pt;
+  letter-spacing: 1px;
+}
+
+ul {
+  padding-left: 14px;
+  font-size: 14px;
+  color: #444;
+}
+
+.job-title {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0;
+  font-size: 14px;
+  padding-left: 5px;
+}
+
+.job-title span {
+  color: #666;
+  font-size: 13px;
+}
+
+.edu {
+  .job-title {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin: 0;
+    p {
+      margin: 0;
+    }
+  }
+}
+
+.two-column-section {
+  margin-top: 6px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  align-items: start;
+}
+
+.two-column-section .column {
+  min-width: 0;
+}
+
+.two-column-section h3 {
+  border-bottom: 1px solid black;
+  font-size: 10pt;
+  letter-spacing: 1px;
+}
+
+.two-column-section ul {
+  margin: 0;
+  padding-left: 14px;
+  font-size: 14px;
+  color: #444;
+}
