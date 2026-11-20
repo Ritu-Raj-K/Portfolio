@@ -107,7 +107,13 @@ const About = () => {
 
             {/* Socials + CTA */}
             <div className="about__actions scroll-reveal">
-              <a href="/Resume_Rituraj_Kumar.pdf" download className="btn-primary">
+              <a
+                href="/Resume_Rituraj_Kumar.html"
+                download="Resume_Rituraj_Kumar.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-primary"
+              >
                 <FiDownload /> Download Resume
               </a>
               <div className="about__socials">
