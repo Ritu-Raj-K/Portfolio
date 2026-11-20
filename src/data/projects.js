@@ -1,5 +1,15 @@
 export const webProjectsList = [
   {
+    name: "Samridhi Hotel & Tiffin Service",
+    appName: "Food Ordering & Tiffin Subscription Platform",
+    imageUrl: "/img/samridhi.jpg", // या "/img/logo.jpg"
+    description:
+      "A complete hospitality & food service solution featuring online meal ordering, customizable lunch/dinner tiffin plans, live order tracking, KDS portal for chefs, and Razorpay payment integration.",
+    visitUrl: "https://samridhiservice.vercel.app",
+    githubUrl: "https://github.com/RiturajKumarDev/Samridhi-Hotel-and-Tiffin-Service",
+    tags: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS", "Firebase"],
+  },
+  {
     name: "Shop Adda",
     appName: "E-Commerce Platform",
     imageUrl: "/img/shopAdda.png",
@@ -12,7 +22,7 @@ export const webProjectsList = [
   {
     name: "Future Focus Classes",
     appName: "Online Learning & Study Platform",
-    imageUrl: "/img/Future-Focus-Classes.png",
+    imageUrl: "/img/Future-Focus-Classes.jpeg",
     description:
       "An online study platform for students to access courses, learning materials, and educational resources easily.",
     visitUrl: "https://future-focus-classes.vercel.app",

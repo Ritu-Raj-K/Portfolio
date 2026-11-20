@@ -109,7 +109,6 @@ const About = () => {
             <div className="about__actions scroll-reveal">
               <a
                 href="/Resume_Rituraj_Kumar.html"
-                download="Resume_Rituraj_Kumar.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary"
