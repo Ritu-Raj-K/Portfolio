@@ -37,7 +37,7 @@ const Navbar = () => {
       <div className="navbar__container">
         {/* Logo */}
         <a
-          href="https://portfolio-rkd.vercel.app/"
+          href="https://riturajk-portfolio.vercel.app"
           className="navbar__logo"
         >
           <div className="navbar__logo-mark">RK</div>

@@ -5,20 +5,19 @@ import './Experience.css';
 const experienceData = [
   {
     id: 1,
-    role: 'Infosys Springboard Internship 7.0',
-    company: 'Infosys Springboard',
-    duration: 'June 2026 - Present',
-    type: 'Virtual Intern (Batch 1)',
+    role: 'Infosys Springboard Virtual Intern (Batch 1)',
+    company: 'Infosys Limited · Springboard',
+    duration: 'June 29, 2026 - August 31, 2026',
+    type: 'Intelligent Contract Analysis & Obligation Tracking',
     points: [
-      'Successfully onboarded into the prestigious Infosys Springboard 7.0 Internship program (Batch 1) for a structured 8-week virtual track.',
-      'Engaging in cloud-native paradigms, corporate training methodologies, and virtual inauguration events to foster advanced development skills.',
-      'Collaborating on hands-on software development modules aimed at real-world enterprise problem solving.',
-      'Engineered responsive full-stack web applications utilizing React.js and Python backend architectures, optimizing end-to-end data flow to process over 500+ daily requests with zero latency.',
-      'Integrated secure RESTful APIs with modern CI/CD practices and Git version control, accelerating overall deployment workflows by 40% and enhancing application scalability.'
-
+      'Completed the prestigious 9-week Infosys Springboard 7.0 Virtual Internship (Batch 1) focused on "Intelligent Contract Analysis and Proactive Obligation Tracking System".',
+      'Engineered an AI-powered system utilizing NLP and machine learning techniques to parse complex legal contracts, extract key clauses, and automatically identify binding obligations.',
+      'Designed proactive obligation tracking and alert workflows to monitor deadlines, deliverables, and compliance status, significantly reducing manual audit overhead.',
+      'Developed responsive full-stack web dashboards utilizing React.js and Python backend architectures, building secure RESTful APIs for real-time document analysis and reporting.',
+      'Collaborated within an enterprise Agile framework, adhering to industry best practices in software architecture, code reviews, and Git version control.'
     ],
     color: '#00d4ff',
-    badge: 'Onboarded'
+    badge: 'Completed'
   },
   {
     id: 2,
@@ -29,9 +28,7 @@ const experienceData = [
     points: [
       'Applied advanced Machine Learning, Generative AI, and Retrieval-Augmented Generation (RAG) Frameworks to real-world scenarios, improving AI context retrieval accuracy by 25% within test environments.',
       'Developed a sustainability-focused AI project utilizing IBM Granite Models, managing the entire lifecycle from concept to implementation.',
-      'Presented technical findings and project demos to a panel of 5+ industry mentors.',
-      'Applied advanced concepts of Machine Learning, Generative AI, and RAG Frameworks to real-world scenarios, improving AI context retrieval accuracy by 25% within test environments.',
-      'Developed a sustainability-focused AI project utilizing IBM Granite Models, managing the lifecycle from concept to implementation and presenting technical findings to a panel of 5+ industry mentors.'
+      'Presented technical findings and project demos to a panel of 5+ industry mentors.'
     ],
     color: '#7c3aed',
     badge: 'Certified'

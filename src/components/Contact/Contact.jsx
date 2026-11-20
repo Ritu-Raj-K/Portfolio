@@ -2,6 +2,7 @@ import { useState, useRef, useEffect } from 'react';
 import emailjs from '@emailjs/browser';
 import { FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa';
 import { FaXTwitter } from 'react-icons/fa6';
+import { SiLeetcode } from 'react-icons/si';
 import {
   FiMail, FiSend, FiMapPin, FiPhone, FiUser, FiMessageSquare,
   FiCheckCircle, FiAlertCircle,
@@ -17,10 +18,11 @@ emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
 /* ── Social links ───────────────────────────────── */
 const socials = [
-  { icon: FaGithub,    href: 'https://github.com/RiturajKumarDev',             label: 'GitHub',    color: '#e0e0e0' },
-  { icon: FaLinkedin,  href: 'https://www.linkedin.com/in/rituraj-kumar-dev/', label: 'LinkedIn',  color: '#0A66C2' },
-  { icon: FaXTwitter,  href: 'https://x.com/RITURAJKUMARDEV',                 label: 'Twitter',   color: '#1DA1F2' },
-  { icon: FaInstagram, href: 'https://www.instagram.com/rituraj.kumar.dev',   label: 'Instagram', color: '#E1306C' },
+  { icon: FaGithub,    href: 'https://github.com/Ritu-Raj-K',             label: 'GitHub',    color: '#e0e0e0' },
+  { icon: FaLinkedin,  href: 'https://www.linkedin.com/in/ritu-raj-k/',   label: 'LinkedIn',  color: '#0A66C2' },
+  { icon: SiLeetcode,  href: 'https://leetcode.com/u/Ritu-Raj-K/',        label: 'LeetCode',  color: '#FFA116' },
+  { icon: FaXTwitter,  href: 'https://x.com/Raj_Ritu_Kumar',             label: 'Twitter',   color: '#1DA1F2' },
+  { icon: FaInstagram, href: 'https://www.instagram.com/raj.ritu.kumar',  label: 'Instagram', color: '#E1306C' },
 ];
 
 /* ── Contact Component ──────────────────────────── */

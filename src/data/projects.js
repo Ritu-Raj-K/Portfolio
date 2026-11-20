@@ -6,7 +6,7 @@ export const webProjectsList = [
     description:
       "A modern e-commerce web application where users can browse products, manage shopping carts, and place orders with a seamless and user-friendly experience.",
     visitUrl: "https://shop-adda-pi.vercel.app",
-    githubUrl: "https://github.com/RiturajKumarDev/ShopAddaBackend",
+    githubUrl: "https://github.com/Ritu-Raj-K/ShopAddaBackend",
     tags: ["React", "Node.js", "MongoDB"],
   },
   {
@@ -16,7 +16,7 @@ export const webProjectsList = [
     description:
       "An online study platform for students to access courses, learning materials, and educational resources easily.",
     visitUrl: "https://future-focus-classes.vercel.app",
-    githubUrl: "https://github.com/RiturajKumarDev/Future-Focus-Classes",
+    githubUrl: "https://github.com/Ritu-Raj-K/Future-Focus-Classes",
     tags: ["React", "Firebase", "CSS"],
   },
   {
@@ -27,17 +27,17 @@ export const webProjectsList = [
       "An AI-powered loan prediction system that analyzes financial data, assesses risk, and predicts loan approval chances in real time.",
     visitUrl:
       "https://loan-decision-intelligence.vercel.app/",
-    githubUrl: "https://github.com/RiturajKumarDev/Loan-Decision-Intelligence",
+    githubUrl: "https://github.com/Ritu-Raj-K/Loan-Decision-Intelligence",
     tags: ["Python", "ML", "Data Science"],
   },
   {
     name: "Rituraj's Portfolio",
     appName: "Personal Portfolio Website",
-    imageUrl: "/img/rituraj.jpeg",
+    imageUrl: "/img/Portfolio.png",
     description:
       "A personal portfolio website showcasing projects, skills, and achievements. Designed to present work in a clean and professional manner.",
-    visitUrl: "https://portfolio-rituraj-kumar.vercel.app",
-    githubUrl: "https://github.com/RiturajKumarDev/Portfolio",
+    visitUrl: "https://riturajk-portfolio.vercel.app",
+    githubUrl: "https://github.com/Ritu-Raj-K/Portfolio",
     tags: ["React", "CSS", "Vite"],
   },
   {
@@ -47,7 +47,7 @@ export const webProjectsList = [
     description:
       "A modern e-commerce web app for browsing products, managing carts, and placing orders with a smooth user experience.",
     visitUrl: "https://riturajkumarty.pythonanywhere.com/",
-    githubUrl: "https://github.com/RiturajKumarDev/CLICKCART-Ecommerce-WebApp",
+    githubUrl: "https://github.com/Ritu-Raj-K/CLICKCART-Ecommerce-WebApp",
     tags: ["React", "Python", "Django"],
   },
   {
@@ -58,7 +58,7 @@ export const webProjectsList = [
       "A smart hiring platform that simplifies recruitment by managing applications and connecting recruiters with candidates.",
     visitUrl: "https://quickhire.pythonanywhere.com/home",
     githubUrl:
-      "https://github.com/RiturajKumarDev/QuickHire-Selector-Applicant-Simutware-Hiring",
+      "https://github.com/Ritu-Raj-K/QuickHire-Selector-Applicant-Simutware-Hiring",
     tags: ["Python", "Django", "SQL"],
   },
   {
@@ -68,8 +68,8 @@ export const webProjectsList = [
     description:
       "A web-based student result management system for adding, updating, and tracking student performance efficiently.",
     visitUrl:
-      "https://github.com/RiturajKumarDev/StudentResultManagement",
-    githubUrl: "https://github.com/RiturajKumarDev/StudentResultManagement",
+      "https://github.com/Ritu-Raj-K/StudentResultManagement",
+    githubUrl: "https://github.com/Ritu-Raj-K/StudentResultManagement",
     tags: ["Java", "SQL", "HTML"],
   },
 ];
@@ -83,7 +83,7 @@ export const appProjectsList = [
       "A service-based mobile app designed to provide users with easy access to essential services through a simple and user-friendly experience.",
     visitUrl:
       "https://play.google.com/store/apps/details?id=com.rituraj.sevamitra",
-    githubUrl: "https://github.com/RiturajKumarDev",
+    githubUrl: "https://github.com/Ritu-Raj-K",
     tags: ["Fava", "Firebase", "XML", "Android"],
   },
   {
@@ -94,7 +94,7 @@ export const appProjectsList = [
       "A grocery shopping app for local stores with easy product browsing, order management, and a smooth user experience.",
     visitUrl:
       "https://play.google.com/store/apps/details?id=com.rituraj.shivamkiranastore",
-    githubUrl: "https://github.com/RiturajKumarDev",
+    githubUrl: "https://github.com/Ritu-Raj-K",
     tags: ["Fava", "Firebase", "XML", "Android"],
   },
   {
@@ -105,7 +105,7 @@ export const appProjectsList = [
       "A test series platform for creating, managing, and attempting tests with PDF, image, and manual question support.",
     visitUrl:
       "https://play.google.com/store/apps/details?id=com.rituraj.focustestseries",
-    githubUrl: "https://github.com/RiturajKumarDev",
+    githubUrl: "https://github.com/Ritu-Raj-K",
     tags: ["Fava", "Firebase", "XML", "Android"],
   },
   {
@@ -116,18 +116,18 @@ export const appProjectsList = [
       "A memory-based card matching game with online and offline modes for fun, challenging, and interactive gameplay.",
     visitUrl:
       "https://play.google.com/store/apps/details?id=com.rituraj.cardmatcher_brainmaster",
-    githubUrl: "https://github.com/RiturajKumarDev",
+    githubUrl: "https://github.com/Ritu-Raj-K",
     tags: ["Flutter", "Android", "Game"],
   },
   {
     name: "Tic Tac Toe",
     appName: "Classic Multiplayer Game",
-    imageUrl: "/img/tic_tac_toe_logo.jpeg",
+    imageUrl: "/img/tic_tac_toe_logo.png",
     description:
       "A fun and interactive Tic Tac Toe game with single-player and multiplayer modes, smart AI opponent, score tracking, and a clean modern interface.",
     visitUrl:
       "https://play.google.com/store/apps/details?id=com.rituraj.tictactoeonlineapp",
-    githubUrl: "https://github.com/RiturajKumarDev",
+    githubUrl: "https://github.com/Ritu-Raj-K",
     tags: ["Flutter", "Android", "Multiplayer"],
   },
 ];
@@ -141,7 +141,7 @@ export const aiMlProjectsList = [
       "An AI-powered loan prediction system that analyzes financial data, assesses risk, and predicts loan approval chances in real time.",
     visitUrl:
       "https://loan-decision-intelligence.vercel.app/",
-    githubUrl: "https://github.com/RiturajKumarDev/Loan-Decision-Intelligence",
+    githubUrl: "https://github.com/Ritu-Raj-K/Loan-Decision-Intelligence",
     tags: ["Python", "ML", "Data Science"],
   },
   {
@@ -151,7 +151,7 @@ export const aiMlProjectsList = [
     description:
       "AI-powered app that detects fruit freshness and predicts spoilage with remaining shelf life.",
     visitUrl: "https://fresh-sense-ai-api.vercel.app",
-    githubUrl: "https://github.com/RiturajKumarDev/Fresh-Sense-AI-API",
+    githubUrl: "https://github.com/Ritu-Raj-K/Fresh-Sense-AI-API",
     tags: ["Python", "AI/ML", "React"],
   },
   {

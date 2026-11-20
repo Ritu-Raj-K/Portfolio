@@ -1,14 +1,16 @@
 import { FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa';
 import { FaXTwitter } from 'react-icons/fa6';
+import { SiLeetcode } from 'react-icons/si';
 import { FiMail, FiHeart } from 'react-icons/fi';
 import './Footer.css';
 
 const socials = [
-  { icon: FaGithub,    href: 'https://github.com/RiturajKumarDev',             label: 'GitHub' },
-  { icon: FaLinkedin,  href: 'https://www.linkedin.com/in/rituraj-kumar-dev/', label: 'LinkedIn' },
-  { icon: FaXTwitter,  href: 'https://x.com/RITURAJKUMARDEV',                 label: 'Twitter' },
-  { icon: FaInstagram, href: 'https://www.instagram.com/rituraj.kumar.dev',   label: 'Instagram' },
-  { icon: FiMail,      href: 'mailto:riturajkumar.dev@gmail.com',             label: 'Email' },
+  { icon: FaGithub,    href: 'https://github.com/Ritu-Raj-K',             label: 'GitHub' },
+  { icon: FaLinkedin,  href: 'https://www.linkedin.com/in/ritu-raj-k/',   label: 'LinkedIn' },
+  { icon: SiLeetcode,  href: 'https://leetcode.com/u/Ritu-Raj-K/',        label: 'LeetCode' },
+  { icon: FaXTwitter,  href: 'https://x.com/Raj_Ritu_Kumar',             label: 'Twitter' },
+  { icon: FaInstagram, href: 'https://www.instagram.com/raj.ritu.kumar',  label: 'Instagram' },
+  { icon: FiMail,      href: 'mailto:riturajkumar.dev@gmail.com',         label: 'Email' },
 ];
 
 const quickLinks = [

@@ -1,5 +1,15 @@
 export const certificationsList = [
   {
+    id: 2,
+    title: "Infosys Springboard Internship 7.0 - Intelligent Contract Analysis",
+    issuer: "Infosys Springboard (Infosys Limited)",
+    date: "June 29, 2026 - August 31, 2026",
+    description: "Successfully completed the virtual internship track (Batch 1) on 'Intelligent Contract Analysis and Proactive Obligation Tracking System'. Developed AI/NLP-driven contract parsing, automated obligation tracking, and compliance monitoring solutions.",
+    image: "img/Infosys Springboard Virtual Internship 7.0.png",
+    category: "Internship",
+    color: "#00d4ff"
+  },
+  {
     id: 1,
     title: "AI for Sustainability Virtual Internship",
     issuer: "1M1B & IBM SkillsBuild (Supported by AICTE)",
@@ -8,16 +18,6 @@ export const certificationsList = [
     image: "img/AI Sustainability Virtual Internship.jpg",
     category: "Internship",
     color: "#3b82f6"
-  },
-  {
-    id: 2,
-    title: "Infosys Springboard Virtual Internship 7.0",
-    issuer: "Infosys Springboard",
-    date: "June 2026",
-    description: "Onboarded as an intern for the prestigious Virtual Internship 7.0.",
-    image: "img/Infosys Springboard Virtual Internship 7.0.jpg",
-    category: "Internship",
-    color: "#14b8a6"
   },
   {
     id: 3,

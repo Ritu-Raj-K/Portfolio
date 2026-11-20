@@ -167,7 +167,7 @@ const Projects = () => {
         {/* GitHub CTA */}
         <div className="projects__github-cta scroll-reveal">
           <a
-            href="https://github.com/RiturajKumarDev"
+            href="https://github.com/Ritu-Raj-K"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-secondary"

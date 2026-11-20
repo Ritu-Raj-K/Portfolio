@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { FaGithub, FaLinkedin, FaInstagram, FaCode, FaMobileAlt, FaServer, FaBrain } from 'react-icons/fa';
 import { FaXTwitter } from 'react-icons/fa6';
+import { SiLeetcode } from 'react-icons/si';
 import { FiDownload, FiMail, FiPhone } from 'react-icons/fi';
 import './About.css';
 
@@ -111,10 +112,11 @@ const About = () => {
               </a>
               <div className="about__socials">
                 {[
-                  { icon: FaGithub, href: 'https://github.com/RiturajKumarDev' },
-                  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/rituraj-kumar-dev/' },
-                  { icon: FaXTwitter, href: 'https://x.com/RITURAJKUMARDEV' },
-                  { icon: FaInstagram, href: 'https://www.instagram.com/rituraj.kumar.dev' },
+                  { icon: FaGithub, href: 'https://github.com/Ritu-Raj-K' },
+                  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/ritu-raj-k/' },
+                  { icon: SiLeetcode, href: 'https://leetcode.com/u/Ritu-Raj-K/' },
+                  { icon: FaXTwitter, href: 'https://x.com/Raj_Ritu_Kumar' },
+                  { icon: FaInstagram, href: 'https://www.instagram.com/raj.ritu.kumar' },
                 ].map(({ icon: Icon, href }) => (
                   <a key={href} href={href} target="_blank" rel="noopener noreferrer" className="about__social">
                     <Icon size={18} />
